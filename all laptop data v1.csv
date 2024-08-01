@@ -1,0 +1,118 @@
+Column1,Title,Rating,$ Price
+0,Asus VivoBook X441NA-GA190,3,295.99
+1,Prestigio SmartBook 133S Dark Grey,2,299
+2,Prestigio SmartBook 133S Gold,4,299
+3,Aspire E1-510,3,306.99
+4,Lenovo V110-15IAP,3,321.94
+5,Lenovo V110-15IAP,2,356.49
+6,Hewlett Packard 250 G6 Dark Ash Silver,1,364.46
+7,Acer Aspire 3 A315-31 Black,2,372.7
+8,Acer Aspire A315-31-C33J,2,379.94
+9,Acer Aspire ES1-572 Black,4,379.95
+10,Acer Aspire 3 A315-31 Black,4,391.48
+11,Acer Aspire 3 A315-21,3,393.88
+12,Asus VivoBook Max,1,399
+13,Asus VivoBook E502NA-GO022T Dark Blue,4,399.99
+14,Lenovo ThinkPad E31-80,1,404.23
+15,Acer Aspire 3 A315-31 Black,4,408.98
+16,Lenovo V110-15ISK,3,409.63
+17,Acer Aspire ES1-732 Black,4,410.46
+18,Asus VivoBook 15 X540NA-GQ026T,4,410.66
+19,Packard 255 G2,2,416.99
+20,Asus EeeBook R416NA-FA014T,1,433.3
+21,Acer Aspire 3 A315-51,1,436.29
+22,Acer Aspire ES1-572 Black,1,436.29
+23,Acer Extensa 15 (2540) Black,4,439.73
+24,Acer Aspire ES1-572 Black,1,454.62
+25,Lenovo V110-15ISK,2,454.73
+26,Acer Aspire A315-51-33TG,3,457.38
+27,Lenovo V110-15IKB,1,465.95
+28,Asus VivoBook 15 X540UA-DM260 Chocolate Black,3,468.56
+29,Acer Aspire ES1-572 Black,3,469.1
+30,Lenovo V510 Black,3,484.23
+31,Acer Aspire ES1-572 Black,3,485.9
+32,Lenovo V510 Black,2,487.8
+33,Acer Swift 1 SF113-31 Silver,3,488.64
+34,Dell Vostro 15,4,488.78
+35,Acer Aspire 3 A315-51 Black,4,494.71
+36,Dell Vostro 15 (3568) Red,1,497.17
+37,Lenovo V510 Black,3,498.23
+38,HP 250 G3,2,520.99
+39,Acer Spin 5,2,564.98
+40,HP 350 G1,2,577.99
+41,Aspire E1-572G,1,581.99
+42,Pavilion,1,609.99
+43,Acer Aspire A515-51-5654,2,679
+44,Dell Inspiron 15,2,679
+45,Asus VivoBook S14,1,729
+46,ProBook,4,739.99
+47,Inspiron 15,3,745.99
+48,Asus ROG STRIX GL553VD-DM256,2,799
+49,Acer Nitro 5 AN515-51,1,809
+50,Asus ROG STRIX GL553VD-DM256,1,899
+51,Lenovo ThinkPad L570,3,999
+52,ThinkPad Yoga,2,1033.99
+53,Lenovo ThinkPad L460,4,1096.02
+54,Dell Inspiron 15 (7567) Black,1,1098.42
+55,MSI GL72M 7RDX,4,1099
+56,MSI GL72M 7RDX,1,1099
+57,Asus ROG Strix GL553VD-DM535T,2,1101.83
+58,Dell Latitude 5280,1,1102.66
+59,Dell Latitude 5480,3,1110.14
+60,Lenovo Legion Y520-15IKBM,4,1112.91
+61,Toshiba Portege Z30-C-16J Grey,1,1114.55
+62,Acer Predator Helios 300 (PH317-51),2,1123.87
+63,Acer Aspire 7 A715-71G,2,1123.87
+64,Dell Inspiron 17 2in1 (7779) Silver,3,1124.2
+65,Dell Latitude 5480,4,1133.82
+66,Lenovo Legion Y520,1,1133.91
+67,Asus AsusPro Advanced BU401LA-FA271G Dark Grey,3,1139.54
+68,Acer Nitro 5 AN515-51,3,1140.62
+69,Dell Latitude 5480,4,1143.4
+70,Dell Inspiron 15 (7567) Black,1,1144.2
+71,Dell Latitude 5580,3,1144.4
+72,Lenovo Legion Y520-15IKBM,3,1149
+73,MSI GP62M 7RDX Leopard,1,1149
+74,Lenovo Yoga 720 Grey,2,1149.73
+75,Toshiba Portege Z30-C-16L Grey,1,1154.04
+76,Acer TravelMate P645-S-511A Black,1,1170.1
+77,Dell Latitude 5580,3,1178.19
+78,ThinkPad T540p,1,1178.99
+79,MSI GS63 7RD Stealth,1,1179
+80,Dell Latitude 5480,3,1187.88
+81,Acer Predator Helios 300 (PH317-51),3,1187.98
+82,MSI GL62M 7REX,1,1199
+83,MSI GL62M 7REX2,2,1199
+84,Lenovo Yoga 910 Grey,3,1199.73
+85,Toshiba Portege X30-D-10J Black/Blue,4,1203.41
+86,Lenovo IdeaPad Miix 510 Platinum Silver,4,1212.16
+87,Acer Predator Helios 300 (PH317-51),1,1221.58
+88,ThinkPad Yoga,3,1223.99
+89,Asus VivoBook Pro 15 N580VN-FI006T Gold Metal,2,1235.49
+90,Dell Latitude 5480,2,1238.37
+91,Asus ZenBook UX530UX-FY040T Blue,1,1239.2
+92,ThinkPad X230,3,1244.99
+93,Asus ROG Strix GL753VE-GC096T,4,1259
+94,"Apple MacBook Air 13""",4,1260.13
+95,Dell Latitude 5480,1,1271.06
+96,Hewlett Packard Spectre 13-v106na Dark Ash Silver,3,1273.11
+97,Dell XPS 13,3,1281.99
+98,Toshiba Portege Z30-C-16K Grey,1,1294.74
+99,MSI GL62VR 7RFX,3,1299
+100,Dell Latitude 5480,3,1310.39
+101,ThinkPad X240,3,1311.99
+102,Hewlett Packard ProBook 640 G3,1,1326.83
+103,"Apple MacBook Pro 13"" Space Gray",1,1333
+104,Dell Latitude 5580,1,1337.28
+105,Dell Latitude 5480,2,1338.37
+106,Dell Latitude 5580,3,1341.22
+107,"Apple MacBook Air 13""",2,1347.78
+108,Lenovo ThinkPad T470,1,1349.23
+109,Lenovo ThinkPad Yoga 370 Black,2,1362.24
+110,Toshiba Portege X20W-D-10V Black/Blue,1,1366.32
+111,Asus ASUSPRO B9440UA-GV0279R Gray,1,1381.13
+112,Lenovo Legion Y720,3,1399
+113,Asus ROG Strix GL702VM-GC146T,3,1399
+114,Asus ROG Strix GL702ZC-GC154T,4,1769
+115,Asus ROG Strix GL702ZC-GC209T,1,1769
+116,Asus ROG Strix SCAR Edition GL503VM-ED115T,3,1799
